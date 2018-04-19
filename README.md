@@ -7,6 +7,9 @@ To follow along on your computer, do one of these:
   - Go to https://rhyme.com/go/bazeln
   - Sign up for an account
   - Minimize the tray on the right, you won't need it
+  - Open up a new terminal
+  - Run `cd nx-bazel-example`
+  - Run `bazel build ...`
 2) Install bazel locally:
   - https://docs.bazel.build/versions/master/install.html
   - Clone this repository
